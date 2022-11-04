@@ -3,6 +3,7 @@ $TTL 60
 @       IN      NS      rpz.blacklist.vn
 @       IN      A       203.171.21.39
 rpz.blacklist.vn       IN      A       203.171.21.39
+
 domainDataFromVNCTest251.com	IN	CNAME	@
 *.domainDataFromVNCTest251.com	IN	CNAME	@
 domainDataFromVNCTest243.com	IN	CNAME	@
